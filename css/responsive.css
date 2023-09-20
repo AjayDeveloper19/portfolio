@@ -1,0 +1,389 @@
+@media(max-width:1342px) {
+    .container {
+        padding-left: 130px;
+        padding-right: 130px;
+    }
+
+}
+
+@media(max-width:1200px) {
+    .container {
+        padding-left: 108px;
+        padding-right: 108px;
+    }
+
+    /* ======= services ===== */
+    .services .row .col-4 .data {
+        padding: 0 !important;
+    }
+
+    /* =========== footer ========= */
+    footer .left {
+        padding-right: 50px !important;
+    }
+}
+
+@media(max-width:1024px) {
+    .container {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+}
+
+@media(max-width:992px) {
+    .container {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    /* ===== Header === */
+    header .row .extra .call {
+        font-size: 12px !important;
+    }
+
+    /* ===== About ======== */
+    .about .col-8 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .about .col-4 {
+        width: 100%;
+    }
+
+    .about .col-3 {
+        margin-bottom: 20px;
+        width: 50%;
+    }
+
+    /* ======= services ===== */
+    .services .row .col-4 .data {
+        padding: 0 10px !important;
+    }
+
+    .services .row .col-4 {
+        width: 50% !important;
+    }
+
+    .services .row .col-4 .data h4 {
+        font-size: 22px !important;
+        margin-bottom: 15px !important;
+        font-weight: 700 !important;
+    }
+
+    .services .row .col-4 .data p {
+        font-size: 16px !important;
+    }
+
+    /* ====== resume ====== */
+    .resume .resume-main {
+        width: 100% !important;
+        margin-bottom: 40px !important;
+    }
+
+    /* ======== Portfolio ============= */
+    .portfolio .col-4 {
+        width: 50% !important;
+    }
+
+    /* ========== faq ========= */
+    .faq .row {
+        flex-direction: column-reverse;
+    }
+
+    .faq .row .col-6 {
+        width: 100%;
+    }
+
+    .faq .row .col-6.image {
+        margin-bottom: 50px;
+    }
+
+    .faq .title {
+        text-align: center !important;
+    }
+
+    .faq .title p {
+        text-align: center !important;
+    }
+
+    /* ======== footer =========== */
+    footer .col-6 {
+        width: 100%;
+    }
+
+    footer .left {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    footer ul {
+        justify-content: center;
+    }
+
+    footer .col-6 h2 {
+        text-align: center;
+    }
+}
+
+@media(max-width:767px) {
+    .container {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    /* ====== Cstm - btn ====== */
+    .cstm-btn a {
+        padding: 10px 30px !important;
+    }
+
+    /* ======= Banner ====== */
+    .hero h2 {
+        margin-bottom: 20px !important;
+    }
+
+    .hero p {
+        margin-top: 50px !important;
+    }
+
+    /* ======= about ======= */
+    .about .title {
+        padding: 50px 0 30px;
+    }
+
+    .about .data {
+        padding-bottom: 30px !important;
+    }
+
+    .about .col-8 h6 {
+        font-size: 25px !important;
+    }
+
+    .about .col-4 p {
+        font-size: 20px !important;
+    }
+
+    .about .col-4 p span {
+        font-size: 25px !important;
+    }
+
+    .about .col-8 p {
+        font-size: 16px !important;
+        line-height: 30px !important;
+    }
+
+    /* ======= services ===== */
+    .services {
+        padding: 50px 0 !important;
+    }
+
+    .services .row .col-4 .data h4 {
+        font-size: 20px !important;
+        margin-bottom: 15px !important;
+        font-weight: 600 !important;
+    }
+
+    .services .row .col-4 .data p {
+        font-size: 15px !important;
+    }
+
+    .services .row .col-4 .data {
+        padding: 0 !important;
+    }
+
+    /* ====== resume ====== */
+    .resume {
+        padding: 50px 0 !important;
+    }
+
+    .resume .skill-col {
+        width: 100% !important;
+    }
+
+    /* ======= portfolio ====== */
+    .portfolio {
+        padding: 50px 0 !important;
+    }
+
+    /* ========== Interest ========= */
+    .interest .main {
+        padding: 100px 0 !important;
+    }
+
+    /* ========== testimonial ======= */
+    .testimonial .swiper-slide {
+        padding: 50px !important;
+    }
+    .testimonial .title p{
+        margin-bottom: 20px !important;
+    }
+
+    /* ========== footer ========= */
+    footer h5 {
+        font-size: 18px !important;
+        margin-bottom: 0 !important;
+    }
+
+    footer span {
+        font-size: 16px !important;
+    }
+
+    /* ============= footer end ============== */
+    .footer-end .col-6 {
+        width: 100%;
+    }
+
+    .footer-end .credit {
+        justify-content: start !important;
+    }
+
+    .footer-end p {
+        font-size: 14px;
+    }
+
+}
+
+@media(max-width:576px) {
+    /* .container {
+        padding-left: 10px;
+        padding-right: 10px;
+    } */
+
+    /* ====== Title - Section ====== */
+    .title p {
+        margin-top: 15px;
+        color: #000;
+        text-align: center;
+        font-size: 30px !important;
+        font-weight: 600;
+        line-height: 48px;
+    }
+
+    /* ========= Header ======== */
+    header .brand img {
+        width: 100%;
+    }
+
+    header .call {
+        margin-right: 10px !important;
+    }
+
+    header .brand {
+        width: 33.33%;
+    }
+
+    header .extra {
+        width: 66.66%;
+        padding-left: 0 !important;
+    }
+
+    header .navbar ul li {
+        padding: 5px 0 !important;
+    }
+
+    header .navbar ul li a {
+        font-size: 18px !important;
+        font-weight: 600 !important;
+    }
+
+    /* ======= Banner ====== */
+    .hero {
+        height: 70vh !important;
+    }
+
+    .hero h2 {
+        font-size: 25px !important;
+    }
+
+    .hero p {
+        font-size: 18px !important;
+    }
+
+    /* ======= ABout ====== */
+    .about .col-3 ul li {
+        font-size: 14px !important;
+    }
+
+    .about .col-8 p {
+        font-size: 14px !important;
+        line-height: 25px !important;
+    }
+
+    /* ======= services ===== */
+    .services .row .col-4 {
+        width: 100% !important;
+        margin-bottom: 30px !important;
+    }
+
+    .services .row .col-4 .data h4 {
+        font-size: 20px !important;
+        margin-bottom: 10px !important;
+        font-weight: 600 !important;
+    }
+
+    .services .row .col-4 .data p {
+        font-size: 14px !important;
+    }
+
+    .services .row .col-4 .data {
+        padding: 0 20px !important;
+    }
+
+    /* ====== resume ====== */
+
+    .resume .row .col-6 .data .box h4 {
+        font-size: 18px !important;
+        font-weight: 700;
+        margin-bottom: 5px;
+    }
+
+    .resume .row .col-6 .data .box p {
+        font-size: 16px;
+        font-weight: 500;
+        margin-bottom: 15px;
+    }
+
+    .resume .row .col-6 .data .box span {
+        font-size: 14px !important;
+        color: #696969;
+    }
+
+    /* ======== Portfolio ============= */
+    .portfolio .col-4 {
+        width: 100% !important;
+    }
+
+    .portfolio .nav .nav-item button {
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    /* ========== Interest ========= */
+    .interest .main {
+        padding: 80px 0 !important;
+    }
+
+    .interest h2 {
+        font-size: 30px !important;
+        font-weight: 600 !important;
+        margin-bottom: 30px !important;
+    }
+
+    /* ======== faq ======== */
+    .faq .accordion .accordion-body p {
+        font-size: 16px !important;
+    }
+
+    /* ======== testimonial ======= */
+    .testimonial .swiper-slide p {
+        font-size: 16px !important;
+    }
+
+    /* =========== footer ========= */
+    footer .left p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+}
